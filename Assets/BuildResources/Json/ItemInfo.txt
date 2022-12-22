@@ -1,0 +1,68 @@
+{
+  "info":
+  [
+    {
+      "id": 1,
+      "name": "长剑",
+      "icon": "Icon_1",
+      "type": 2,
+      "equipType": 3,
+      "price": 350,
+      "tips": "普通的长剑"
+    },
+    {
+      "id": 2,
+      "name": "盔甲",
+      "icon": "Icon_2",
+      "type": 2,
+      "equipType": 4,
+      "price": 500,
+      "tips": "普通的盔甲"
+    },
+    {
+      "id": 3,
+      "name": "生命药水",
+      "icon": "Icon_3",
+      "type": 1,
+      "equipType": 0,
+      "price": 50,
+      "tips": "喝了可以回复血量"
+    },
+    {
+      "id": 4,
+      "name": "法力药水",
+      "icon": "Icon_4",
+      "type": 1,
+      "equipType": 0,
+      "price": 50,
+      "tips": "喝了可以回复法力值"
+    },
+    {
+      "id": 5,
+      "name": "红水晶",
+      "icon": "Icon_5",
+      "type": 3,
+      "equipType": 0,
+      "price": 400,
+      "tips": "红色的宝石"
+    },
+    {
+      "id": 6,
+      "name": "蓝水晶",
+      "icon": "Icon_6",
+      "type": 3,
+      "equipType": 0,
+      "price": 300,
+      "tips": "蓝色的宝石"
+    },
+    {
+      "id": 7,
+      "name": "武士盔甲",
+      "icon": "Icon_7",
+      "type": 2,
+      "equipType": 4,
+      "price": 3000,
+      "tips": "武士的盔甲"
+    }
+  ]
+}

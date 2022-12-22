@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3675043205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b81e9e6a8fa271af1d3698e9aa8c0a66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/LuaScript/MainPanel.lua.txt
+Dependencies: []

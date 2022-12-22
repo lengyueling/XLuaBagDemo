@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a66201d6bfe63d94b91554c9ef576e9d, type: 3}
+    - {fileID: 2800000, guid: 8dd904cc6d6646a459e6793f6e5ef3b9, type: 3}
+    - {fileID: 2800000, guid: c971514392fe47d4483f70452cda7682, type: 3}
+    - {fileID: 2800000, guid: 6e0d0ef59490bce4f852d27d18e38410, type: 3}
+    - {fileID: 2800000, guid: 76aad81125f3bce4ba6b8a328b519668, type: 3}
+    - {fileID: 2800000, guid: 202e8adb2068229458d55ffbf89880e3, type: 3}
+    - {fileID: 2800000, guid: 996e803123f8237468b79ad0e36d63a4, type: 3}
+    totalSpriteSurfaceArea: 2087201
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 76aad81125f3bce4ba6b8a328b519668, type: 3}
+  - {fileID: 21300000, guid: 996e803123f8237468b79ad0e36d63a4, type: 3}
+  - {fileID: 21300000, guid: c971514392fe47d4483f70452cda7682, type: 3}
+  - {fileID: 21300000, guid: 6e0d0ef59490bce4f852d27d18e38410, type: 3}
+  - {fileID: 21300000, guid: a66201d6bfe63d94b91554c9ef576e9d, type: 3}
+  - {fileID: 21300000, guid: 202e8adb2068229458d55ffbf89880e3, type: 3}
+  - {fileID: 21300000, guid: 8dd904cc6d6646a459e6793f6e5ef3b9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5
+  - 7
+  - 3
+  - 4
+  - 1
+  - 6
+  - 2
+  m_RenderDataMap: {}
+  m_Tag: Icon
+  m_IsVariant: 0

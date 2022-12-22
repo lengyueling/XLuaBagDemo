@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1446037057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d148533a20d43c5b7745ff43011f602
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1fc2a226f44c4514ca2dd2c6938ff58
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Prefab/EventSystem.prefab
+Dependencies: []

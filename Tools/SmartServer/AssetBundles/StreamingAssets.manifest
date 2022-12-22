@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 1966869810
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: audio/music/bg_music.mp3.ab
+      Dependencies: {}
+    Info_1:
+      Name: audio/sound/ui_touch.wav.ab
+      Dependencies: {}
+    Info_2:
+      Name: audio/sound/ui_win_close.mp3.ab
+      Dependencies: {}
+    Info_3:
+      Name: json/iteminfo.txt.ab
+      Dependencies: {}
+    Info_4:
+      Name: luascript/bagpanel.lua.txt.ab
+      Dependencies: {}
+    Info_5:
+      Name: luascript/basepanel.lua.txt.ab
+      Dependencies: {}
+    Info_6:
+      Name: luascript/initclass.lua.txt.ab
+      Dependencies: {}
+    Info_7:
+      Name: luascript/itemcell.lua.txt.ab
+      Dependencies: {}
+    Info_8:
+      Name: luascript/iteminfo.lua.txt.ab
+      Dependencies: {}
+    Info_9:
+      Name: luascript/jsonutility.lua.txt.ab
+      Dependencies: {}
+    Info_10:
+      Name: luascript/main.lua.txt.ab
+      Dependencies: {}
+    Info_11:
+      Name: luascript/mainpanel.lua.txt.ab
+      Dependencies: {}
+    Info_12:
+      Name: luascript/object.lua.txt.ab
+      Dependencies: {}
+    Info_13:
+      Name: luascript/playerinfo.lua.txt.ab
+      Dependencies: {}
+    Info_14:
+      Name: luascript/splittools.lua.txt.ab
+      Dependencies: {}
+    Info_15:
+      Name: scene/main.unity.ab
+      Dependencies: {}
+    Info_16:
+      Name: ui/prefab/bagpanel.prefab.ab
+      Dependencies: {}
+    Info_17:
+      Name: ui/prefab/eventsystem.prefab.ab
+      Dependencies: {}
+    Info_18:
+      Name: ui/prefab/itemcell.prefab.ab
+      Dependencies: {}
+    Info_19:
+      Name: ui/prefab/mainpanel.prefab.ab
+      Dependencies: {}
+    Info_20:
+      Name: ui/sprite/icon.spriteatlas.ab
+      Dependencies: {}
